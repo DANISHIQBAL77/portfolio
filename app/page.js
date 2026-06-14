@@ -127,25 +127,11 @@ const projects = [
     href: "https://management-app-bay.vercel.app/",
   },
   {
-    title: "PulseBoard",
-    tag: "Dashboard",
-    desc: "Real-time analytics dashboard powered by WebSockets and D3.js. Handles 50k+ live events per minute with smooth chart transitions.",
-    stack: ["React", "Node.js", "Redis"],
-    href: "#",
-  },
-  {
-    title: "ShipFast CLI",
-    tag: "Dev Tool",
-    desc: "An open-source CLI that scaffolds production-ready Next.js projects with auth, payments, and email in under 60 seconds.",
-    stack: ["Node.js", "Commander"],
-    href: "#",
-  },
-  {
-    title: "Ephemeral Chat",
-    tag: "Real-Time",
-    desc: "End-to-end encrypted chat app with self-destructing messages, built with Socket.io and libsodium for client-side encryption.",
-    stack: ["React", "Express", "Socket.io"],
-    href: "#",
+    title: "Online shopping store",
+    tag: "full-stack",
+    desc: "A fully functional e-commerce platform with a modern UI and seamless checkout experience.",
+    stack: ["Next.js", "Node.js", "Firebase"],
+    href: "https://vercel-live-m4a4.vercel.app" ,
   },
 ];
 
