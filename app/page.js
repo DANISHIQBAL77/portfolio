@@ -749,7 +749,7 @@ export default function Portfolio() {
                   <div className="project-stack">
                     {p.stack.map(s => <span key={s} className="stack-pill">{s}</span>)}
                   </div>
-                  <a href={p.href} className="project-link">View Live Project <span>→</span></a>
+                  <a href={p.href} className="project-link" target="blank">View Live Project <span>→</span></a>
                 </div>
               </div>
             ))}
